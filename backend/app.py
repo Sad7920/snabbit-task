@@ -10,7 +10,6 @@ common_overrides = [
     # Any day 12 PM to 4 PM increase by Rs. 5
     {"time_range": (12, 16), "adjustment": 5},
 ]
-
 # Mock data for sports and pricing (using the same overrides for all sports)
 sports_pricing = {
     "badminton": {
